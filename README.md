@@ -1,7 +1,5 @@
 # Work Day Scheduler
 
-# Work Day Scheduler
-
 ## Purpose
 A scheduling app for adding and tracking important events daily
 
@@ -17,6 +15,6 @@ A scheduling app for adding and tracking important events daily
 Lavon J Green
 
 ## Screenshot
-![Alt text](Develop/finsihedApp.png)
+![Alt text](finsihedApp.png)
 
 
